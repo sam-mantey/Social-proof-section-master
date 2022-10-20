@@ -78,11 +78,11 @@
     justify-self: center;
   }
 
-  section {
+  .reviews {
     margin-top: 40px;
   }
 
-  section img {
+  .reviews img {
     height: 40px;
     width: 40px;
     border-radius: 50%;
@@ -226,7 +226,7 @@
         padding-left: 20px;
       }
 
-      section {
+      .reviews {
         display: flex;
         height: 100%;
         width: 100%;
